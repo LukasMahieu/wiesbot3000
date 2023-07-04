@@ -1,5 +1,6 @@
 # wiesbot3000
-**work in progress**
+**WORK IN PROGRESS**
+
 Bot that can play the card game Wiezen
 
 ## Installation
